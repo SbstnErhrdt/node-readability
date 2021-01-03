@@ -8,6 +8,12 @@ See: https://github.com/mozilla/readability/
 The goal of this project is to provide an endpoint to use the Readability library 
 to extract the most relevant content of a rendered website.
 
+## Docker
+Simply run the docker container
+```
+docker run -p8080:8080 ese7en/node-readability
+```
+
 ## Request
 
 The request object must contain the following:
