@@ -1,0 +1,14 @@
+{
+  "name": "node-readability",
+  "homepage": "https://github.com/SbstnErhrdt/node-readability",
+  "license": "Apache-2.0",
+  "author": "SbstnErhrdt",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.4.0",
+    "jsdom": "^16.4.0"
+  }
+}
